@@ -70,4 +70,6 @@ int main() {
     srand(time(0));
     sentence();
     cout << endl;
+
+    return 0;
 }
